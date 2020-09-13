@@ -2,8 +2,8 @@
 
 # Exemplos do Youtube
 
-Este repositório tem como finalidade apresentar os exemplos desenvolvidos nos vídeos publicados no youtube
+Este repositório tem como finalidade apresentar os exemplos desenvolvidos nos vídeos publicados no youtube.
 
 ## Exemplos disponíveis
 
-* [Get/GetX](https://github.com/claudneysessa/youtube/tree/master/flutter_get) : Exemplo de como trabalhar com o Package Get
+* [Get/GetX](https://github.com/claudneysessa/youtube/tree/master/flutter_get) : Exemplo de como trabalhar com o Package Get (Route Manager e State Manager)
